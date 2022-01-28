@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at [Washington University in St. Louis](https://wustl.edu/).
+subtitle: Ph.D. Student at Washington University in St. Louis
 
 profile:
   align: right
