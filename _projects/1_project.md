@@ -1,15 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: The Evolution of Key Innovations
+description: Studies on the evolution of organismal features that facilitate major ecological shifts
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Key innovation are  organismal features that facilitate major ecological shifts. For example, the evolution of wings in birds.
+One focus of the study
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
