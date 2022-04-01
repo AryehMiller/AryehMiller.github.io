@@ -4,7 +4,8 @@ title: The Evolution of Key Innovations
 description: Research on the evolution of organismal features that facilitate major ecological shifts
 img: assets/img/12.jpg
 importance: 1
-category: current reserach foci
+category: Current reserach foci
+
 ---
 
 Key innovation are  organismal features that facilitate major ecological shifts. For example, the evolution of wings in birds.
