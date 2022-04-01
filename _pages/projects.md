@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Current research foci.
+description:
 nav: true
 display_categories: [Current reserach foci]
 horizontal: false
