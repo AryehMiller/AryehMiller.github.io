@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Current research foci.
 nav: true
-display_categories: [work, fun]
+display_categories: [Current reserach foci]
 horizontal: false
 ---
 
