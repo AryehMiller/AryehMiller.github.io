@@ -14,3 +14,5 @@ I was invited on to St. Louis National Public Radio to discuss a recent study I 
     <a href="https://news.stlpublicradio.org/show/st-louis-on-the-air/2021-08-18/wash-u-biologist-explains-how-lizards-evolved-for-specialized-life-in-trees">Wash U Biologist Explains How Lizards Evolved For Specialized Life In Trees</a>.
     — St. Louis Public Radio | By Lara Hamdan
 </blockquote>
+
+{% include figure.html path="assets/img/NPR_STL_jpg.jpg" class="img-fluid rounded z-depth-1" %}
