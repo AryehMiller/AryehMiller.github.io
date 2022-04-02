@@ -6,7 +6,7 @@ description: Radio interview with St. Louis Public Radio on recent research
 tags: lizards adaptation
 categories: sample-posts
 ---
-I was invited on to St. Louis National Public Radio to discuss a recent study I led (published in Sytematic Biology) on the evolution of arboreality in lizards. The interview, and corresponding article, is available <a href="https://news.stlpublicradio.org/show/st-louis-on-the-air/2021-08-18/wash-u-biologist-explains-how-lizards-evolved-for-specialized-life-in-trees">on the St. Louis Public Radio website</a>.
+I was invited on to St. Louis National Public Radio to discuss a recent study I led (<a href="https://academic.oup.com/sysbio/article-abstract/71/1/139/6295694?redirectedFrom=fulltext">published in Systematic Biology</a>) on the evolution of arboreality in lizards. The interview, and corresponding article, is available <a href="https://news.stlpublicradio.org/show/st-louis-on-the-air/2021-08-18/wash-u-biologist-explains-how-lizards-evolved-for-specialized-life-in-trees">on the St. Louis Public Radio website</a>.
 
 <hr>
 
