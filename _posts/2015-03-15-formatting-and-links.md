@@ -2,7 +2,7 @@
 layout: post
 title:  NPR STL Interview
 date:   2021-08-18 16:40:16
-description: march & april, looking forward to summer
+description: Radio interview with St. Louis Public Radio on recent research
 tags: lizards adaptation
 categories: sample-posts
 ---
