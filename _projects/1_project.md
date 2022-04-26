@@ -16,6 +16,7 @@ to integratively meld both evolution and ecology.
 The first portion of research describes a novel conceptual and empirical comparative framework for understanding how key innovations arise,
 and inferring the eco-evolutionary dynamics of these traits through time. 
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/MHS_01241.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -36,9 +37,8 @@ and inferring the eco-evolutionary dynamics of these traits through time.
     </div>
 </div>
 <div class="caption">
-    Arboreality in lizards has evolved more than 100 times, but lineages possessing digital adhesive toepads
-    have a distinct, remarkable evolutionary dynamic through time of ecological conservatism.
-</div>r2
+    Arboreality in lizards has evolved more than 100 times, but lineages possessing digital adhesive toepads have a distinct, remarkable evolutionary dynamic through time of ecological conservatism.
+</div>
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
