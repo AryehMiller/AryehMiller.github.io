@@ -8,31 +8,14 @@ category: Current reserach foci
 
 ---
 
-Key innovation are  organismal features that facilitate major ecological shifts. For example, the evolution of wings in birds.
-One focus of the study
+Key innovation are novel organismal features that facilitate major ecological shifts. For example, the evolution of wings in birds enabled
+access to entirely new suite of ecological resources. My research on key innovations aims to synthesize the initial ecological origins
+of the concept--understanding how the role of form and function in ecology--with more recent advances in phylogenetic comparative biology
+to integratively meld both evolution and ecology. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The first portion of research describes a novel conceptual and empirical comparative framework for understanding how key innovations arise,
+and inferring the eco-evolutionary dynamics of these traits through time. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
