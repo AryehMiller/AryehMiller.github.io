@@ -12,4 +12,4 @@ nav: true
 
 _Fall 2021_
 
-I was teaching assistant for Dr. Ken Olsen's "Evolution" course, where I attended biweekly lectures and lead weekly discussion sections where students would grapple with recent peer-reviewed articles in the evolutionary biology literature. I additionally held weekly office hours, and held several exam review sessions.
+As a teaching assistant for _Evolution_, I attended biweekly lectures and led weekly discussion sections where students would grapple with recent peer-reviewed articles in the evolutionary biology literature to better understand the wide-range of concepts, hypotheses, and theories in evolutionary biology. I additionally held weekly office hours, and held several exam review sessions.
