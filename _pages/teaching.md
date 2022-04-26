@@ -2,10 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: courses that I have taught.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Washington University in St. Louis**
 
-Organize your courses by years, topics, or universities, however you like!
+### **Bio 3501: Evolution**
+
+_Fall 2021_
+
+I was teaching assistant for Dr. Ken Olsen's "Evolution" course, where I attended biweekly lectures and lead weekly discussion sections where students would grapple with recent peer-reviewed articles in the evolutionary biology literature. I additionally held weekly office hours, and held several exam review sessions.
