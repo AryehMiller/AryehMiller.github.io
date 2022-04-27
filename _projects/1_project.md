@@ -4,7 +4,7 @@ title: Key Innovations
 description: Research on the evolution of ecological adaptation
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Current research foci
 ---
 
 Key innovation are novel organismal features that facilitate major ecological shifts. For example, the evolution of wings in birds enabled access to entirely new suite of ecological resources. My research on key innovations aims to synthesize the initial ecological origins of the concept--understanding form and function--with more recent advances in phylogenetic comparative biology to integratively meld both evolution and ecology. 
