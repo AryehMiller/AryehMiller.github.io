@@ -17,7 +17,7 @@ The first portion (Miller and Stroud 2022) of research describes a novel concept
 
 **Publications:** 
 <div class="publications">
-  {% bibliography -f papers -q @*[titleNovel tests of the key innovation hypothesis: Adhesive toepads in arboreal lizards]* %}
+  {% bibliography -f papers -q @*[title=Novel tests of the key innovation hypothesis: Adhesive toepads in arboreal lizards]* %}
 </div>
 
 <div class="row">
