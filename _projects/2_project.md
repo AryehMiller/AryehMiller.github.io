@@ -2,9 +2,9 @@
 layout: page
 title: Genome Biology
 description: Genomics and Phylogenomic Inference
-img: assets/img/3.jpg
+img: assets/img/GenomeBiology.png
 importance: 2
-category: work
+category: Current research foci
 ---
 
 As technology advances, the cost of DNA sequencing has plummeted, providing the opportunity characterize large genomic swaths of Earth's biodiversity. As such, one aspect of my research concerns leveraging genome-scale data to understand how genomic elements and groups of organsims evolve over time. 
