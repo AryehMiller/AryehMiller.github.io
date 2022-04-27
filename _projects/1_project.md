@@ -7,9 +7,18 @@ importance: 1
 category: work
 ---
 
-Key innovation are novel organismal features that facilitate major ecological shifts. For example, the evolution of wings in birds enabled access to entirely new suite of ecological resources. My research on key innovations aims to synthesize the initial ecological origins of the concept--understanding how the role of form and function in ecology--with more recent advances in phylogenetic comparative biologyto integratively meld both evolution and ecology. 
+Key innovation are novel organismal features that facilitate major ecological shifts. For example, the evolution of wings in birds enabled access to entirely new suite of ecological resources. My research on key innovations aims to synthesize the initial ecological origins of the concept--understanding form and function--with more recent advances in phylogenetic comparative biology to integratively meld both evolution and ecology. 
 
-The first portion of research describes a novel conceptual and empirical comparative framework for understanding how key innovations arise, and inferring the eco-evolutionary dynamics of these traits through time. 
+The first portion (Miller and Stroud 2022) of research describes a novel conceptual and empirical comparative framework for understanding how key innovations arise, and inferring the eco-evolutionary dynamics of these traits through time. 
+
+**Code:** [R code associated with Miller and Stroud (2022)](https://github.com/AryehMiller/Lizard-Key-Innovations)
+{:target="_blank" rel="noopener"}
+**Dataset:** [Dryad repository](https://datadryad.org/stash/dataset/doi:10.5061/dryad.4xgxd258r){:target="_blank" rel="noopener"}<br>
+
+**Publications:** 
+<div class="publications">
+  {% bibliography -f papers -q @*[titleNovel tests of the key innovation hypothesis: Adhesive toepads in arboreal lizards]* %}
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
