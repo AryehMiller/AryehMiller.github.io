@@ -7,31 +7,40 @@ importance: 1
 category: work
 ---
 
-Key innovation are novel organismal features that facilitate major ecological shifts. For example, the evolution of wings in birds enabled access to entirely new suite of ecological resources. My research on key innovations aims to synthesize the initial ecological origins of the concept--understanding how the role of form and function in ecology--with more recent advances in phylogenetic comparative biologyto integratively meld both evolution and ecology. 
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-The first portion of research describes a novel conceptual and empirical comparative framework for understanding how key innovations arise, and inferring the eco-evolutionary dynamics of these traits through time. 
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MHS_01241.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MHS_01672_ArborealLizardMyanmar.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MHS_02540.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Arboreal lizards come in all shapes and sizes. On the left, a flying lizard (genus Draco) with an expanded rib cage to allow the species to "glide." Middle, an arboreal lizard with long, sharp curved claws to dig into trunks. Right, a gecko without toepads-- the bent-toed geckos, which have evolved arboreality.
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Figure2_26May21.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Arboreality in lizards has evolved more than 100 times, but lineages possessing digital adhesive toepads have a distinct, remarkable evolutionary dynamic through time of ecological conservatism.
+    This image can also have a caption. It's like magic.
 </div>
 
 You can also put regular text between your rows of images.
