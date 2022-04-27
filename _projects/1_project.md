@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Evolution of key innovations
-description: Research on the ecology and evolution of adaptation
+title: Key Innovations
+description: Research on the evolution of ecological adaptation
 img: assets/img/12.jpg
 importance: 1
 category: work
