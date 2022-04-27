@@ -1,24 +1,15 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Systematics and natural history
+description: Research on the systematics, taxonomy, and natural history of reptiles and amphibians
+img: assets/img/Micryletta.jpg
 importance: 3
-category: fun
+category: Current research foci
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As both a natural historian and an evolutionary biologist, I firmly believe that studying the evolution and ecology of particular organismal groups, and developing an appreciation for their biology, is essential to formulating, understanding, and advancing broader concepts in biology. As a herpetologist, classifying and evaluating the relationships among reptiles and amphibians has long remained a central aspect of my research efforts. To do so, I combine genetic and phenotypic data in an integrative framework to estimate phylogenetic relationships among extant taxa to understand their evolution. Most often, this work involves re-evauluating the evolutionary relationships among species, and sometimes, it involves describing entirely new species to science. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The research occurs in the field (deep in the tropical rainforests of Southeast Asia or on remote Caribbean islands), in natural history museum collections where specimens are houses, in state-of-the-art molecular labs where genomic material is extracted and sequenced, and on high-performance computing clusters to execute powerful, data-intensive analyses. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
