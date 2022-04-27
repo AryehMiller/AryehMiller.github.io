@@ -24,6 +24,13 @@ The research occurs in the field (deep in the tropical rainforests of Southeast 
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    
+Relevant publications:
+
+1. Miller, A. H., & Zug, G. R. (2016). An enigmatic _Lygosoma_ (Reptilia: Squamata: Scincidae) from northern Myanmar. _Herpetological Review_, 47(3), 373-374.
+    
+2. Miller, A. H., & Zug, G. R. (2016). Morphology and biology of the Asian Common Mockviper, _Psammodynastes_ _pulverulentus_ (Boie, 1827)(Serpentes: Lamprophiidae): a focus on Burmese populations. _Proceedings of the Biological Society of Washington_, 129(1), 173-194.
+    
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
