@@ -8,6 +8,11 @@ nav: true
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
+  <div class="photo-container">
+    <img src="assets/img/TREE_Cover.pdf" alt="Photo 1">
+    <img src="assets/img/ICopeia.heic" alt="Photo 2">
+    <img src="assets/img/Psammodynastescoverheic.heic" alt="Photo 3">
+  </div>
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
