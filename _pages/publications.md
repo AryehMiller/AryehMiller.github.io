@@ -9,9 +9,9 @@ nav: true
 <!-- _pages/publications.md -->
 <div class="publications">
   <div class="photo-container">
-    <img src="assets/img/TREE_Cover.jpg" alt="Photo 1">
-    <img src="assets/img/CopeiaJPEG.jpg" alt="Photo 2">
-    <img src="assets/img/PsammodynastescoverJPEG.jpg" alt="Photo 3">
+    <img src="assets/img/TREE_Cover.jpg">
+    <img src="assets/img/CopeiaJPEG.jpg">
+    <img src="assets/img/PsammodynastescoverJPEG.jpg">
   </div>
 
 {%- for y in page.years %}
