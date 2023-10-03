@@ -9,7 +9,7 @@ nav: true
 <!-- _pages/publications.md -->
 <div class="publications">
   <div class="photo-container">
-    <img src="master/assets/img/TREE_Cover.jpg">
+    <img src="{{ https://github.com/AryehMiller/aryehmiller.github.io }}/assets/img/TREE_Cover.jpg">
     <img src="master/assets/img/CopeiaJPEG.jpg">
     <img src="master/assets/img/PsammodynastescoverJPEG.jpg">
   </div>
