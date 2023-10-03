@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate at Washington University in St. Louis
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Bio_Miller_A-1013376.jpg
   address: >
     <p>McDonnell Hall 415</p>
     <p>Department of Biology</p>
