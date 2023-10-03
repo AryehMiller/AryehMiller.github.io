@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - AryehMiller
+  
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AryehMiller/Python-based-Genomics-Assorted-
+  - AryehMiller/Lizard-Key-Innovations
+  - snakemake/snakemake
