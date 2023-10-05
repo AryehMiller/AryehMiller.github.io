@@ -8,8 +8,8 @@ nav: true
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
-  <div class="photo-container">
-    <img class="thumbnail" src="{{ https://github.com/AryehMiller/aryehmiller.github.io }}/assets/img/TREE_Cover.jpg" alt="Image Description">
+  <div class="thumbnail">
+    <img src="{{ https://github.com/AryehMiller/aryehmiller.github.io }}/assets/img/TREE_Cover.jpg" alt="Image Description">
     <img src="master/assets/img/CopeiaJPEG.jpg">
     <img src="master/assets/img/PsammodynastescoverJPEG.jpg">
   </div>
